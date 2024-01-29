@@ -1,0 +1,21 @@
+Demo kod sunumu ile afiş sunumu linki.
+
+https://drive.google.com/drive/folders/1haADagP1Q7KdSgYfe8zh8to8AWCoUic0?usp=sharing
+
+-----------------------
+
+collab linki
+
+https://colab.research.google.com/drive/12rMBkKEt5uR2nu9N-iEL-pmDW59DS8Pi?usp=sharing
+
+-----------------------
+
+dataset linki
+
+https://www.kaggle.com/datasets/abhranta/png-dataset-for-rsna-mgmt-detection
+
+----------------------
+
+Muhammed izzet DEMİR 191180032
+Aysu KAYMAK 191180051
+
